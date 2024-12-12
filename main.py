@@ -13,6 +13,7 @@ import threading
 import queue
 import subprocess
 import pytesseract
+pytesseract.pytesseract.tesseract_cmd = r"replace with path to tesseract.exe or equivalant in your os system only if your resume is an image file"
 import textract
 import docx
 import PyPDF2
