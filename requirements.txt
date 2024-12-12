@@ -1,0 +1,10 @@
+nltk
+Pillow
+pywin32
+tqdm
+pandas
+python-docx
+PyPDF2
+spacy
+pytesseract
+textract
